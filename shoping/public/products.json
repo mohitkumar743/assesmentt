@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "Awesome Lamp",
+    "category": "Lighting",
+    "brand": "Poliform",
+    "price": 40,
+    "image": "https://flatlogic-ecommerce-backend.herokuapp.com/images/products/2.png"
+  },
+  {
+    "id": 2,
+    "name": "Cool Flower",
+    "category": "Decoration",
+    "brand": "Edra",
+    "price": 20,
+    "image": "https://flatlogic-ecommerce-backend.herokuapp.com/images/products/2.png"
+  },
+  {
+    "id": 3,
+    "name": "Cozy Sofa",
+    "category": "Furniture",
+    "brand": "Kartell",
+    "price": 150,
+    "image": "https://flatlogic-ecommerce-backend.herokuapp.com/images/products/2.png"
+  },
+  {
+    "id": 4,
+    "name": "Awesome Candle",
+    "category": "Lighting",
+    "brand": "Roche Bobois",
+    "price": 15,
+    "image": "https://flatlogic-ecommerce-backend.herokuapp.com/images/products/2.png"
+  },
+  {
+    "id": 5,
+    "name": "Fancy Chair",
+    "category": "Furniture",
+    "brand": "Poliform",
+    "price": 70,
+    "image": "https://flatlogic-ecommerce-backend.herokuapp.com/images/products/2.png"
+  },
+  {
+    "id": 6,
+    "name": "Chinese Teapot",
+    "category": "Decoration",
+    "brand": "Edra",
+    "price": 50,
+    "image": "https://flatlogic-ecommerce-backend.herokuapp.com/images/products/2.png"
+  },
+  {
+    "id": 7,
+    "name": "Bathroom Mirror",
+    "category": "Bath & Shower",
+    "brand": "Kartell",
+    "price": 90,
+    "image": "https://flatlogic-ecommerce-backend.herokuapp.com/images/products/2.png"
+  },
+  {
+    "id": 8,
+    "name": "Kids Toy Car",
+    "category": "Toys",
+    "brand": "Roche Bobois",
+    "price": 25,
+    "image": "https://flatlogic-ecommerce-backend.herokuapp.com/images/products/2.png"
+  },
+  {
+    "id": 9,
+    "name": "Luxury Curtains",
+    "category": "Curtains",
+    "brand": "Poliform",
+    "price": 110,
+    "image": "https://flatlogic-ecommerce-backend.herokuapp.com/images/products/2.png"
+  }
+  
+]
